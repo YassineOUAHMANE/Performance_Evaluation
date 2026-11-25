@@ -1,9 +1,10 @@
 # Homework : Reading and Reviewing Scientific Articles
 
 ## What I did
-For now, I have reviewed the **first two articles**:
+For now, I have reviewed the **first three articles**:
 1. [The Anatomy of a Large-Scale Hypertextual Web Search Engine](article_01_google_search_engine.md)
 2. [Attention Is All You Need](article_02_attention_is_all_you_need.md)
+3. [A Relational Model of Data for Large Shared Data Banks](article_03_relational_model_codd.md)
 
 For each article I checked:
 - **Is it worth reading?**
@@ -39,7 +40,7 @@ The other articles will be reviewed in the same way.
 |---|---------|--------|
 | 1 | [Google search engine](article_01_google_search_engine.md) | Done |
 | 2 | [Attention Is All You Need](article_02_attention_is_all_you_need.md) | Done |
-| 3 | Relational Model (Codd) | To do |
+| 3 | [Relational Model (Codd)](article_03_relational_model_codd.md) | Done |
 | 4 | Chord | To do |
 | 5 | Deep Latent Mixture Model | To do |
 | 6 | Deep Factorization Model | To do |
