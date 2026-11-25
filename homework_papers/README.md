@@ -1,10 +1,11 @@
 # Homework : Reading and Reviewing Scientific Articles
 
 ## What I did
-For now, I have reviewed the **first three articles**:
+For now, I have reviewed the **first four articles**:
 1. [The Anatomy of a Large-Scale Hypertextual Web Search Engine](article_01_google_search_engine.md)
 2. [Attention Is All You Need](article_02_attention_is_all_you_need.md)
 3. [A Relational Model of Data for Large Shared Data Banks](article_03_relational_model_codd.md)
+4. [Chord: A Scalable Peer-to-Peer Lookup Protocol for Internet Applications](article_04_chord.md)
 
 For each article I checked:
 - **Is it worth reading?**
@@ -35,13 +36,19 @@ The other articles will be reviewed in the same way.
   I must check that the content, the data and the results are really there.
 - **It is short:** Each section has a few lines, so the review stays clear and to the point.
 
+## Why I went beyond the professor's questions
+The professor asks three questions: Is the paper worth reading? Is it famous? Any other point?
+To answer them well, I first need to understand the paper. So the first sections help me
+understand it, and the last section, **My feedback on the article**, gives my answers.
+Also, a famous paper is not always a good one, so I checked the content and the weak points too.
+
 ## Progress
 | # | Article | Status |
 |---|---------|--------|
 | 1 | [Google search engine](article_01_google_search_engine.md) | Done |
 | 2 | [Attention Is All You Need](article_02_attention_is_all_you_need.md) | Done |
 | 3 | [Relational Model (Codd)](article_03_relational_model_codd.md) | Done |
-| 4 | Chord | To do |
+| 4 | [Chord](article_04_chord.md) | Done |
 | 5 | Deep Latent Mixture Model | To do |
 | 6 | Deep Factorization Model | To do |
 | 7 | On the Refinement of DHTs | To do |
