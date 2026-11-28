@@ -1,12 +1,13 @@
 # Homework : Reading and Reviewing Scientific Articles
 
 ## What I did
-For now, I have reviewed the **first five articles**:
+For now, I have reviewed the **first six articles**:
 1. [The Anatomy of a Large-Scale Hypertextual Web Search Engine](article_01_google_search_engine.md)
 2. [Attention Is All You Need](article_02_attention_is_all_you_need.md)
 3. [A Relational Model of Data for Large Shared Data Banks](article_03_relational_model_codd.md)
 4. [Chord: A Scalable Peer-to-Peer Lookup Protocol for Internet Applications](article_04_chord.md)
 5. [Deep Latent Mixture Model for Recommendation](article_05_deep_latent_mixture_model.md)
+6. [Deep Factorization Model for Robust Recommendation](article_06_deepfact.md)
 
 For each article I checked:
 - **Is it worth reading?**
@@ -51,7 +52,7 @@ Also, a famous paper is not always a good one, so I checked the content and the 
 | 3 | [Relational Model (Codd)](article_03_relational_model_codd.md) | Done |
 | 4 | [Chord](article_04_chord.md) | Done |
 | 5 | [Deep Latent Mixture Model](article_05_deep_latent_mixture_model.md) | Done |
-| 6 | Deep Factorization Model | To do |
+| 6 | [Deep Factorization Model](article_06_deepfact.md) | Done |
 | 7 | On the Refinement of DHTs | To do |
 | 8 | Pleaseman | To do |
 | 9 | Sentiment Analysis | To do |
